@@ -1,0 +1,82 @@
+tweet,label
+"['rekomendasi', 'kemeja', 'retro', 'sista', 'tidak', 'seperti', 'firaun', 'tag', 'libur', 'siang', 'ozil']",positif
+"['kacau', 'portal', 'online', 'ajar', 'tulis', 'berita', 'cuit', 'nadir', 'bentur', 'nyata']",positif
+"['kaum', 'lgbt', 'predator', 'normal', 'buru', 'manusia', 'sembah', 'iblis', 'masuk', 'neraka']",negatif
+"['heran', 'lgbt', 'indonesia', 'banyak', 'munafik', 'juang', 'hak']",negatif
+"['saat', 'normal', 'kucil', 'jauh', 'keluarga', 'kaum', 'lgbt', 'ente', 'teriak']",positif
+"['bendera', 'tauhid', 'antum', 'bakar', 'bendera', 'lgbt', 'antum', 'kibar', 'benar', 'antum', 'salah', 'batil', 'antum', 'bela']",negatif
+"['qatar', 'haram', 'lgbt', 'piala', 'dunia', 'tukar', 'agama', 'turnamen']",negatif
+"['cpa', 'bela', 'lgbt', 'lom', 'perangkat', 'hukum', 'jerat', 'lgbt', 'hukum', 'agama']",negatif
+"['silah', 'rakyat', 'catat', 'partai', 'politis', 'pro', 'kaum', 'sodom', 'lawan', 'norma', 'agama', 'pancasila', 'tenggelam']",negatif
+"['negara', 'larang', 'lgbt', 'indonesia']",negatif
+"['as', 'tokoh', 'masyarakat', 'hormat', 'lgbt', 'manusia', 'dosa', 'urus', 'allah', 'oposisi', 'cerdas']",positif
+"['obat', 'gugur', 'kandung', 'original', 'ready', 'stok', 'bantu', 'tuntas', 'respon', 'cepat']",positif
+"['ahong', 'lgbt', 'ranah', 'privat', 'nggak', 'diurusin', 'urusin', 'promosi', 'lgbt']",negatif
+"['malam', 'ada', 'pentas', 'lengger', 'seni', 'tradisional', 'bawa', 'tari', 'perempuan']",positif
+"['bela', 'lgbt', 'skrg', 'mati', 'mic', 'besok', 'anak', 'paksa', 'ikut', 'didik', 'seks', 'versi', 'paksa', 'tolak']",negatif
+"['perilaku', 'simpang', 'seksual', 'lgbt', 'propaganda', 'kian', 'resah', 'ancam', 'generasi', 'muda']",negatif
+"['hatihati', 'azab', 'laku', 'lgbt', 'keri']",negatif
+"['puan', 'mati', 'mic', 'fraksi', 'pks', 'bahas', 'lgbt', 'tifatul', 'sembiring', 'sarkas', 'hemat', 'listrik']",negatif
+"['faktor', 'orang', 'lgbt', 'rasa', 'beda', 'klaim', 'gender', 'dysphoria']",positif
+"['agama', 'mana', 'dukung', 'halal', 'lgbt', 'kecuali', 'orang', 'orang', 'sakit', 'jiwa']",negatif
+"['sila', 'dukung', 'lgbt', 'dalih', 'hak', 'asasi', 'anak', 'kena']",negatif
+"['ofmagadh', 'inka', 'lgbt']",negatif
+"['following', 'kurang', 'beneran', 'cari', 'panggung', 'dpt', 'panggung', 'ruhut', 'dukung', 'lgbt']",positif
+"['halah', 'bokefer', 'dukung', 'lgbt', 'kumurkumur', 'norak', 'loe', 'son']",negatif
+"['hak', 'hidup', 'makhluk', 'jamin', 'buat']",positif
+"['budayawan', 'muhammadiyah', 'umat', 'islam', 'wajib', 'lawan', 'lgbt', 'umat', 'islam', 'wajib', 'buka', 'lawan', 'lesbian', 'gay', 'biseksual', 'transg']",negatif
+"['moga', 'anak', 'turun', 'elu', 'lgbt', 'perilaku', 'lgbtaamiin']",negatif
+"['heran', 'lgbt', 'indonesia', 'banyak', 'munafik', 'juang', 'hak']",positif
+"['shandie', 'moga', 'dukung', 'lgbt', 'anak', 'cucu', 'lgbt']",positif
+"['udah', 'bs', 'bicara', 'lahsudah', 'waktunyarakyat', 'melawanketidak', 'adil']",negatif
+"['pejaten', 'selamat', 'sore', 'kaum', 'kaum', 'cherybol', 'bong', 'lgbtkumpulan', 'spesies', 'sampah', 'coba', 'paksa', 'paksa', 'komisioner']",negatif
+"['trendingnya', 'jelek', 'lgbt', 'bukan', 'kriminal', 'enak', 'udel', 'bawabawa', 'penjara', 'urus', 'tuhan', 'hadeh', 'negara', 'wakanda']",negatif
+"['panggil', 'pake', 'gas', 'gus', 'gas', 'gus', 'lgbt', 'narkoba', 'candu', 'rusak']",negatif
+"['laku', 'lgbt']",positif
+"['ttg', 'lgbt', 'buru', 'mati', 'micjangan', 'aaasssuu', 'dah']",negatif
+"['jepang', 'meibbfs', 'bb', 'shot']",positif
+"['macau', 'meibbfs', 'bb', 'shot']",positif
+"['lgbt', 'kriminal', 'atur', 'penjara', 'lgbt', 'for', 'no', 'reason', 'jus']",negatif
+"['ahong', 'negara', 'laku', 'hukum', 'islam', 'perilaku', 'lgbt', 'kembang']",negatif
+"['pov', 'lu', 'lgi', 'liat', 'org', 'lol', 'lgbt', 'damn', 'nsfw', 'lu', 'sarkas', 'ngabrut']",negatif
+"['tahun', 'dalam', 'ceramah', 'sebut', 'lgbt', 'hina', 'hewan', 'ayam', 'akal', 'ayam', 'jago']",positif
+"['cari', 'dasar', 'hukum', 'larang', 'lgbt', 'nasi', 'mawut', 'sesat', 'lihat', 'dasar', 'ideologi', 'pancasila']",negatif
+"['dukung', 'lgbt', 'indonesia']",positif
+"['muslim', 'marah', 'lihat', 'bendera', 'tauhid', 'kibar', 'ambil', 'pusing', 'bendera', 'lgbt', 'naik', 'moga', 'allah', 'jaga']",negatif
+['lgbt'],positif
+"['bungo', 'sanding', 'atheis', 'lgbt', 'aneh', 'hehehe']",positif
+"['caci', 'maki', 'diskus', 'beda', 'sudut', 'pandang', 'disk']",positif
+"['ak', 'cabang', 'lgbtia']",positif
+"['lihat', 'segi', 'hukum', 'atur', 'khusus', 'atur', 'lgbt', 'indonesia']",negatif
+"['dirs', 'pelintir', 'tp', 'sikap', 'and', 'akan', 'bela', 'lgbt', 'pancing', 'orang', 'gerah', 'buat', 'demik']",positif
+"['nkri', 'asai', 'khianat', 'langgar', 'pancasila', 'uud', 'usaha', 'susup', 'liberal', 'nkri']",negatif
+"['eh', 'lgbt', 'ngaruh', 'ntar', 'lgbt', 'populasi', 'manusia', 'bumi', 'punah', 'bagus', 'loe', 'oran']",negatif
+"['covid', 'tuduh', 'dalang', 'beliau', 'skrang', 'cacar', 'monyet', 'jg', 'bilang', 'dalang', 'beliau', 'jg', 'suruh', 'wh']",positif
+"['id', 'budayawan', 'muhammadiyah', 'umat', 'islam', 'wajib', 'lawan', 'lgbt']",negatif
+"['lgbt', 'sakit', 'gender', 'elu', 'main', 'yih', 'rscm', 'rs', 'dharmais', 'gimana', 'kena', 'aids', 'hiv']",negatif
+"['sin', 'is', 'sintidak', 'dosa', 'lgbt', 'dosa', 'dosa']",negatif
+['lgbt'],positif
+"['sea', 'lgbt', 'salah', 'mikir']",negatif
+"['dubes', 'inggris', 'kibar', 'bendera', 'lgbt', 'indonesia', 'malaysia']",positif
+"['lgbt', 'sakit', 'mental', 'sembuh', 'republika', 'online', 'mobile']",negatif
+"['bcd', 'chattan', 'dululgbt', 'btajg', 'astagfirullah', 'gitum', 'ajgajg', 'astagfirullah']",negatif
+"['bot', 'hbgn', 'bot', 'emg', 'bs', 'arti', 'bonceng', 'bs', 'jg', 'lgbt', 'tp', 'ak', 'jg', 'ngerti', 'sieeee']",negatif
+"['yunianto', 'percaya', 'laku', 'lgbt', 'bahagiakebahagiaan', 'semu', 'dikejarberujung', 'derita']",negatif
+"['maaf', 'nihabang', 'bela', 'lgbtsya', 'tanyaapa', 'abang', 'anak', 'abang', 'jdi', 'lgbtsebab', 'lgbt', 'sakit', 'bang']",negatif
+"['orang', 'lgbt', 'bingung', 'banget', 'pasca', 'podcast', 'corbuzier', 'maki', 'rezim', 'jokowi']",negatif
+"['opm', 'jlas', 'troris', 'kga', 'total', 'lu', 'lawannyamalah', 'disbut', 'sodaratag', 'semarang', 'ganjar', 'pranowo', 'monyet', 'kalong', 'puan', 'sodom']",negatif
+"['ekokuntadhi', 'kaya', 'giat', 'medsos', 'tebar', 'teror', 'anggap', 'teroris', 'isi', 'tulis', 'penafsiranya', 'kaya']",negatif
+"['dirs', 'bgn', 'lgbtapaanda', 'senang', 'klau', 'klg', 'nikmat', 'lobang', 'taiapakah', 'bangga', 'dukung', 'penikma']",negatif
+"['siang', 'sayang', 'ready', 'skrng', 'open', 'vcs', 'lgbt']",negatif
+"['tanggung', 'lgbt', 'koruptor', 'triliun', 'bebas', 'utang', 'numpuk']",negatif
+"['lgbt', 'bincang', 'hangat', 'bukti', 'trending', 'lgbt']",positif
+"['alas', 'ham', 'lindung', 'lupa', 'lgbt', 'rombak', 'total', 'ham', 'manusia']",negatif
+"['ahli', 'mati', 'mik', 'dukung', 'kaum', 'lgbt']",positif
+"['denger', 'denger', 'mati', 'mic', 'pas', 'bahas', 'sanksi', 'lgbt', 'kah']",negatif
+"['terap', 'syariat', 'islam', 'brunei', 'darussalam', 'inisiatif', 'hukum', 'laku']",negatif
+"['buni', 'yani', 'ingat', 'dubes', 'inggris', 'lgbt', 'haram', 'sakit', 'kibar', 'bendera', 'pelangi']",positif
+"['fantesa', 'pi', 'kaum', 'kasih', 'ruang', 'ad']",positif
+"['manusia', 'superior', 'lo', 'ciri', 'sekian', 'lgbt', 'arogan']",negatif
+"['now', 'temu', 'warga', 'indonesia', 'dengar', 'tent']",positif
+"['grant', 'tokoh', 'agama', 'vonis', 'lgbt', 'adl', 'sakit', 'tular', 'ajar', 'psikologi', 'ranah', 'agama', 'mem']",positif
+"['ngomong', 'kaya', 'hak', 'hak', 'bathil', 'bathil', 'pahit', 'rasakandaripa']",positif
